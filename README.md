@@ -12,7 +12,7 @@
 💛 JavaScript | 💙 TypeScript | ☕ Java | 🐍 Python | 🎨 HTML & CSS | 🎯 Dart  
 
 **Frameworks & Tools:**  
-⚡ Angular | 🐦 NestJS | 🎯 Spring Boot | 🐘 MySQL | 🗄 SQLite | 🐘 PostgreSQL | 🎭 Django | 🎨 Tailwind & Bootstrap | 🌐 Node.js | 📱 Flutter  
+⚡ Angular | 🐦 NestJS | 🎯 Spring Boot | 🐘 MySQL | 🐘 PostgreSQL | 🎭 Django | 🎨 Tailwind & Bootstrap | 🌐 Node.js | 📱 Flutter  
 
 **Architecture & Patterns:**  
 📦 Microservices | 🔗 REST API | 🧩 MVC | 🏗 Design Patterns  
@@ -34,3 +34,4 @@ const yasmin = {
   architecture: ["Microservices", "REST API", "MVC", "Design Patterns"],
   challenge: "Currently doing the #100DaysOfCode challenge focused on Java (Spring Boot) and TypeScript (NestJS)"
 }
+
